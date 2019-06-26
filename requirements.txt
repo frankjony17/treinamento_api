@@ -1,0 +1,6 @@
+flask
+flask-restplus
+numpy
+opencv-python
+opencv-contrib-python
+sklearn
